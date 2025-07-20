@@ -1,0 +1,15 @@
+{
+  "name": "NEKOXAU",
+  "symbol": "NEKOXAU",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "NEKOXAU is a meme coin symbolizing patience and community legacy.",
+  "website": "https://nekoxau.carrd.co",
+  "explorer": "https://etherscan.io/token/0xbf824DAFA61F7c1FEc739b4914a7fF867284dcAd",
+  "status": "active",
+  "id": "0xbf824DAFA61F7c1FEc739b4914a7fF867284dcAd",
+  "links": {
+    "twitter": "https://twitter.com/abyssstride",
+    "telegram": "https://t.me/NEKOXAUREAL"
+  }
+}
